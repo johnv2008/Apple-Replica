@@ -1,0 +1,62 @@
+
+/** Css code for the Navigation bar**/
+
+nav.navigation {
+  background-color: black;
+  text-align: center;
+  width:  auto;
+  margin: -20px;
+  padding: 0 22px;
+  }
+
+nav.navigation >ul >li  {
+  display: inline-block;
+  width: auto;
+  margin: 20px;
+  padding: 0 10px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+/* This is the body code please adjust accordently */
+
+.centerpic {
+  width: auto;
+  height: auto;
+  margin: 0px;
+  padding: 0px;
+  }
+
+.center {
+  position: center;
+  color: white;
+  top: 80px;
+  right: 16px;
+  font-size: 18px;
+}
+
+/* Footer */
+footer.bottom {
+  background-color: white;
+  text-align: center;
+  width: auto;
+  margin: -20px;
+  padding: 0 22px;
+}
+
+footer.bottom >ul >li  {
+  display: inline-block;
+  width:  22%;
+  margin: 2px;
+  padding: 0 10px;
+}
+
+footer.bottom li > a {
+  color: black;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+}
